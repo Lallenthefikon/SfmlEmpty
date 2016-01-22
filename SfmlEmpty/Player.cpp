@@ -15,5 +15,4 @@ Entity* Player::createPlayer(sf::Vector2f pos){
 
 void Player::render(sf::RenderWindow &window){
 	// KOMMENTAR 
-	// En till kommentar
 }
